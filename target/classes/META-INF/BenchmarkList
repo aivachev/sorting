@@ -1,0 +1,9 @@
+JMH S 27 mail.polis.bench.MergeBench S 62 mail.polis.bench.generated.MergeBench_measureMergeSort_jmhTest S 16 measureMergeSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 32 mail.polis.bench.BubbleSortBench S 68 mail.polis.bench.generated.BubbleSortBench_measureBubbleSort_jmhTest S 17 measureBubbleSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 30 mail.polis.bench.MergeMemBench S 68 mail.polis.bench.generated.MergeMemBench_measureMergeMemSort_jmhTest S 19 measureMergeMemSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 31 mail.polis.bench.QuickSortBench S 63 mail.polis.bench.generated.QuickSortBench_measureQSSort_jmhTest S 13 measureQSSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 27 mail.polis.bench.ShellBench S 62 mail.polis.bench.generated.ShellBench_measureShellSort_jmhTest S 16 measureShellSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 36 mail.polis.bench.InsertionBonusBench S 80 mail.polis.bench.generated.InsertionBonusBench_measureInsertionBonusSort_jmhTest S 25 measureInsertionBonusSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 31 mail.polis.bench.InsertionBench S 70 mail.polis.bench.generated.InsertionBench_measureInsertionSort_jmhTest S 20 measureInsertionSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 32 mail.polis.bench.QuickSort3Bench S 65 mail.polis.bench.generated.QuickSort3Bench_measureQS3Sort_jmhTest S 14 measureQS3Sort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 33 mail.polis.bench.AverageTimeBench S 69 mail.polis.bench.generated.AverageTimeBench_measureBubbleSort_jmhTest S 17 measureBubbleSort S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 12 MICROSECONDS E E 
